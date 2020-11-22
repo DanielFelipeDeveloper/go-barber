@@ -14,8 +14,8 @@ class App {
   }
 
   routes() {
-    this.server.use(routes)
+    this.server.use(routes);
   }
 }
 // exportando uma nova instância da classe App, exportando diretamente o server.
-export default new App().server
+export default new App().server;
