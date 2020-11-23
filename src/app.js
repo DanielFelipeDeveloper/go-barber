@@ -17,5 +17,4 @@ class App {
     this.server.use(routes);
   }
 }
-// exportando uma nova instância da classe App, exportando diretamente o server.
 export default new App().server;
