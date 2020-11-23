@@ -1,4 +1,5 @@
 {
   "singleQuote": true,
-  "traillingComa": "es5"
+  "traillingComa": "es5",
+  "end_of_line": "auto"
 }
